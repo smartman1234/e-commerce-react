@@ -25,7 +25,7 @@ npm start
 ```  
 ## Links
 
-- [Github](https://github.com/aycanogut/e-commerce-react)
+- [Github](https://github.com/smartman1234/e-commerce-react)
 - [Deployment](https://more-shopping.netlify.app/)
 
 ## Built with
@@ -41,16 +41,3 @@ npm start
 - [yup](https://github.com/jquense/yup)
 - [Javascript](https://javascript.info/)
 - [SASS](https://sass-guidelin.es/)
-## Authors
-
-- [Aycan Öğüt]()
-- [Melisa Demirparmak](https://github.com/melisademirparmak)
-- [Nihat Tuzlacı](https://github.com/senixus)
-
-## License
-
-Licensed under the MIT license, see [LICENSE](https://github.com/aycanogut/e-commerce-react/blob/main/LICENSE) for details.
-
-
-
-
